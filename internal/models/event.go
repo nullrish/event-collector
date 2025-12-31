@@ -1,2 +1,2 @@
-// Package event ..
-package event
+// Package models ..
+package models
